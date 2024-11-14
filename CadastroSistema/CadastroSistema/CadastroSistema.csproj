@@ -55,6 +55,22 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="AlunoCadastro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AlunoListagem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CursoCadastro.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CursoListagem.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="EscolaCadastro.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -68,11 +84,23 @@
       <SubType>Designer</SubType>
     </Page>
     <Compile Include="Aluno.cs" />
+    <Compile Include="AlunoCadastro.xaml.cs">
+      <DependentUpon>AlunoCadastro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AlunoListagem.xaml.cs">
+      <DependentUpon>AlunoListagem.xaml</DependentUpon>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Curso.cs" />
+    <Compile Include="CursoCadastro.xaml.cs">
+      <DependentUpon>CursoCadastro.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CursoListagem.xaml.cs">
+      <DependentUpon>CursoListagem.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Escola.cs" />
     <Compile Include="EscolaCadastro.xaml.cs">
       <DependentUpon>EscolaCadastro.xaml</DependentUpon>

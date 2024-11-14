@@ -5,6 +5,6 @@
         public string Nome { get; set; }
         public string Descricao { get; set; }
         public string Coordenador { get; set; }
-        public bool Status { get; set; } // true = ativo, false = inativo
+        public string Status { get; set; }  // "Ativo" ou "Inativo"
     }
 }

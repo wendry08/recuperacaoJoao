@@ -1,42 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\",
+  "WorkspaceRootPath": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\cadastrosistema\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\cadastrosistema\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\cursocadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\cursocadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\cursocadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\cursocadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\alunocadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\alunocadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\alunocadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\alunocadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\alunolistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\alunolistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\alunolistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\alunolistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\cursolistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\cursolistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\cursolistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\cursolistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\cadastrosistema\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\escolacadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escolacadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\cadastrosistema\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\escolalistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escolalistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\escolacadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\2022102020033\\documents\\github\\recuperacaojoao\\cadastrosistema\\cadastrosistema\\escolacadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escolacadastro.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\escolalistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escolalistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\cadastrosistema\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escola.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|c:\\users\\filhos\\source\\repos\\cadastrosistema\\cadastrosistema\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\cadastrosistema\\escolacadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escolacadastro.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\cadastrosistema\\escolalistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escolalistagem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\cadastrosistema\\escolalistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{83187CD7-A2DC-40C9-9105-DB2720CCEB2B}|CadastroSistema\\CadastroSistema.csproj|solutionrelative:cadastrosistema\\escolalistagem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,121 +78,217 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "EscolaListagem.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\EscolaListagem.xaml.cs",
-              "RelativeDocumentMoniker": "CadastroSistema\\EscolaListagem.xaml.cs",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\EscolaListagem.xaml.cs*",
-              "RelativeToolTip": "CadastroSistema\\EscolaListagem.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T22:01:25.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EscolaCadastro.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\EscolaCadastro.xaml.cs",
-              "RelativeDocumentMoniker": "CadastroSistema\\EscolaCadastro.xaml.cs",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\EscolaCadastro.xaml.cs*",
-              "RelativeToolTip": "CadastroSistema\\EscolaCadastro.xaml.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowDAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T21:59:43.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EscolaListagem.xaml",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\EscolaListagem.xaml",
-              "RelativeDocumentMoniker": "CadastroSistema\\EscolaListagem.xaml",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\EscolaListagem.xaml*",
-              "RelativeToolTip": "CadastroSistema\\EscolaListagem.xaml*",
+              "DocumentIndex": 2,
+              "Title": "CursoCadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\CursoCadastro.xaml",
+              "RelativeDocumentMoniker": "CadastroSistema\\CursoCadastro.xaml",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\CursoCadastro.xaml",
+              "RelativeToolTip": "CadastroSistema\\CursoCadastro.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-13T21:22:28.056Z",
+              "WhenOpened": "2024-11-14T18:10:04.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EscolaCadastro.xaml",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\EscolaCadastro.xaml",
-              "RelativeDocumentMoniker": "CadastroSistema\\EscolaCadastro.xaml",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\EscolaCadastro.xaml*",
-              "RelativeToolTip": "CadastroSistema\\EscolaCadastro.xaml*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-13T21:19:44.41Z",
+              "DocumentIndex": 9,
+              "Title": "CursoListagem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\CursoListagem.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\CursoListagem.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\CursoListagem.xaml.cs",
+              "RelativeToolTip": "CadastroSistema\\CursoListagem.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:14:03.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Aluno.cs",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\Aluno.cs",
-              "RelativeDocumentMoniker": "CadastroSistema\\Aluno.cs",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\Aluno.cs*",
-              "RelativeToolTip": "CadastroSistema\\Aluno.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "CursoCadastro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\CursoCadastro.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\CursoCadastro.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\CursoCadastro.xaml.cs",
+              "RelativeToolTip": "CadastroSistema\\CursoCadastro.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T21:17:42.488Z",
+              "WhenOpened": "2024-11-14T18:10:38.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\Curso.cs",
-              "RelativeDocumentMoniker": "CadastroSistema\\Curso.cs",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\Curso.cs*",
-              "RelativeToolTip": "CadastroSistema\\Curso.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T21:17:18.681Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "EscolaCadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\EscolaCadastro.xaml",
+              "RelativeDocumentMoniker": "CadastroSistema\\EscolaCadastro.xaml",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\EscolaCadastro.xaml",
+              "RelativeToolTip": "CadastroSistema\\EscolaCadastro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T21:19:44.41Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Escola.cs",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\Escola.cs",
-              "RelativeDocumentMoniker": "CadastroSistema\\Escola.cs",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\Escola.cs*",
-              "RelativeToolTip": "CadastroSistema\\Escola.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-13T21:16:52.458Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CadastroSistema\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\MainWindow.xaml*",
-              "RelativeToolTip": "CadastroSistema\\MainWindow.xaml*",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\MainWindow.xaml",
+              "RelativeToolTip": "CadastroSistema\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-13T21:15:16.05Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CadastroSistema\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Filhos\\source\\repos\\CadastroSistema\\CadastroSistema\\MainWindow.xaml.cs*",
-              "RelativeToolTip": "CadastroSistema\\MainWindow.xaml.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CadastroSistema\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-13T21:15:15.443Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlunoCadastro.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\AlunoCadastro.xaml",
+              "RelativeDocumentMoniker": "CadastroSistema\\AlunoCadastro.xaml",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\AlunoCadastro.xaml",
+              "RelativeToolTip": "CadastroSistema\\AlunoCadastro.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T18:11:20.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CursoListagem.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\CursoListagem.xaml",
+              "RelativeDocumentMoniker": "CadastroSistema\\CursoListagem.xaml",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\CursoListagem.xaml",
+              "RelativeToolTip": "CadastroSistema\\CursoListagem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T18:13:44.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AlunoCadastro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\AlunoCadastro.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\AlunoCadastro.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\AlunoCadastro.xaml.cs",
+              "RelativeToolTip": "CadastroSistema\\AlunoCadastro.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:11:37.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlunoListagem.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\AlunoListagem.xaml",
+              "RelativeDocumentMoniker": "CadastroSistema\\AlunoListagem.xaml",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\AlunoListagem.xaml",
+              "RelativeToolTip": "CadastroSistema\\AlunoListagem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T18:12:17.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlunoListagem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\AlunoListagem.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\AlunoListagem.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\AlunoListagem.xaml.cs",
+              "RelativeToolTip": "CadastroSistema\\AlunoListagem.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T18:12:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EscolaCadastro.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\EscolaCadastro.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\EscolaCadastro.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\EscolaCadastro.xaml.cs",
+              "RelativeToolTip": "CadastroSistema\\EscolaCadastro.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:59:43.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EscolaListagem.xaml",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\EscolaListagem.xaml",
+              "RelativeDocumentMoniker": "CadastroSistema\\EscolaListagem.xaml",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\EscolaListagem.xaml",
+              "RelativeToolTip": "CadastroSistema\\EscolaListagem.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T21:22:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EscolaListagem.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\EscolaListagem.xaml.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\EscolaListagem.xaml.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\EscolaListagem.xaml.cs",
+              "RelativeToolTip": "CadastroSistema\\EscolaListagem.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T22:01:25.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\Aluno.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\Aluno.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\Aluno.cs",
+              "RelativeToolTip": "CadastroSistema\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:17:42.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\Curso.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\Curso.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\Curso.cs",
+              "RelativeToolTip": "CadastroSistema\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:17:18.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Escola.cs",
+              "DocumentMoniker": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\Escola.cs",
+              "RelativeDocumentMoniker": "CadastroSistema\\Escola.cs",
+              "ToolTip": "C:\\Users\\2022102020033\\Documents\\GitHub\\recuperacaoJoao\\CadastroSistema\\CadastroSistema\\Escola.cs",
+              "RelativeToolTip": "CadastroSistema\\Escola.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T21:16:52.458Z"
             }
           ]
         }
